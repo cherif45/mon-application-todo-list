@@ -31,18 +31,22 @@ button:hover {
 .blue {
     background-color: blue;
     padding: 10px;
-    border: 2px solid rgb(9, 1, 1);
+    border: 2px solid rgb(255, 248, 248);
+    border-radius: 15px;
 }
 .red {
     background-color: red;
-    border: 2px solid rgb(9, 0, 0);
+    border: 2px solid rgb(244, 238, 238);
+    border-radius: 15px;
+    padding: 10px;
 }
 
 .gren {
     background-color: rgb(41, 180, 41);
-    border: 
-    2px solid rgb(9, 1, 1);
-}
+    border-radius: 15px;
+    border: none;
+    }
+    
 table, th, td {
     border: 2px solid black;
     border-collapse: collapse;
