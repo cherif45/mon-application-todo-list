@@ -1,0 +1,51 @@
+.container {
+    padding: 20px;
+    margin: 20px solid ;
+    border: 2px solid black;
+    /* display: inline-block; */
+}
+.titre {
+    color :red;
+    font-size : 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titre1 {
+    border:2px solid black;
+    padding: 15px;
+}
+
+.titreprincipale {
+    font-weight: 900;
+    font-size: 20px;
+}
+button {
+    background-color: blue;
+    padding: 15px;
+    color: white;
+}
+button:hover {
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+}
+.blue {
+    background-color: blue;
+    padding: 10px;
+    border: 2px solid rgb(9, 1, 1);
+}
+.red {
+    background-color: red;
+    border: 2px solid rgb(9, 0, 0);
+}
+
+.gren {
+    background-color: rgb(41, 180, 41);
+    border: 
+    2px solid rgb(9, 1, 1);
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+
+}
